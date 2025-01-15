@@ -1,0 +1,14 @@
+
+/* Blog styles */
+.blog-post {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.blog-post h2 {
+    color: #333;
+}
+.blog-post p {
+    color: #555;
+}
